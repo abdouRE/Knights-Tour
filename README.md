@@ -87,4 +87,4 @@ The solver runs in a background thread — the GUI stays responsive during compu
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
